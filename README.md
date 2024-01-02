@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-this repo is just for learning purpose. this repo is for learning how to initialize, create git, branching, pushing, pulling using the git bash...
+this repo is just for learning purpose. this repo is for learning how to initialize, create github repo, branching, pushing, pulling using the git bash...
 
 <!--
 **pankil-soni/pankil-soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
