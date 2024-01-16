@@ -26,8 +26,6 @@ Here are some of the projects I have worked on:
    - Technologies Used: -
    - link: -
 
-[Add more projects as needed]
-
 ## 📫 Contact
 
 Feel free to reach out to me:
