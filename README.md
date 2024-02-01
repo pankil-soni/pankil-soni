@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a second-year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India. Passionate about building Machine Learning models, FullStack development, I am dedicated to exploring and contributing to the exciting field of artificial intelligence.
+I am a second-year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India. Passionate about building Machine Learning models and FullStack web development, I am dedicated to exploring and contributing to the exciting field of artificial intelligence.
 
 ## 🚀 Skills
 
