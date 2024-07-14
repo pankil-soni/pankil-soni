@@ -39,6 +39,9 @@ Feel free to reach out to me:
 - Email: pmsoni2016@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pankil-soni-5a0541170/
 
+## Github Stats
+![pankil-soni's Stats](https://github-readme-stats.vercel.app/api?username=pankil-soni&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 ## 🌐 Personal Website
 
 link : https://pankil-soni.github.io/
