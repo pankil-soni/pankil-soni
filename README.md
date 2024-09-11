@@ -40,6 +40,7 @@ Feel free to reach out to me:
 - LinkedIn: https://www.linkedin.com/in/pankil-soni-5a0541170/
 
 ## Github Stats
+![pankil-soni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankil-soni&theme=tokyonight&hide_border=false)
 ![pankil-soni's Stats](https://github-readme-stats.vercel.app/api?username=pankil-soni&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ## 🌐 Personal Website
