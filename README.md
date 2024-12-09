@@ -2,37 +2,66 @@
   <img alt="Profile Header" src="https://d36zjyy50kn5xn.cloudfront.net/banner-dark.svg" width="100%">
 </div>
 
+## Find Me At
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pmsoni2016@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankil-soni-5a0541170/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/pankil_soni18)
+[![Kaggle](https://img.shields.io/badge/-KAGGLE-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/pankilsoni)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Pankil_Soni/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://leetcode.com/u/Pankil_Soni/)
+[![Medium](https://img.shields.io/badge/-MEDIUM-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/https://medium.com/@pmsoni2016)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@pankil1812)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/pankilsoni)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24263125/pankil-soni)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@mighty_1812)
+<a href="https://pankil-soni.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-FF5722?style=flat&logo=internet-explorer&logoColor=white" alt="Website" />
+  </a>
+
 ## About Me
 
 I am a Third-year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India. Passionate about building Machine Learning models and FullStack development, I am dedicated to exploring and contributing to the exciting field of artificial intelligence.
 
 ## 🚀 Tech Stack
 
-#### Programming Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/) [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-#### App Development:
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%230085FF.svg?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-%2343B8C6.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)](https://keras.io/) [![YOLO](https://img.shields.io/badge/YOLO-%23F9D616.svg?style=flat&logo=youtube&logoColor=white)](https://pjreddie.com/darknet/yolo/)
+[![Flask API](https://img.shields.io/badge/Flask%20API-%23000.svg?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
 
-#### Web Development:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23239120.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![Flask API](https://img.shields.io/badge/Flask%20API-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
-#### Data Science and Machine Learning:
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%230085FF.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-%2343B8C6.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/) [![YOLO](https://img.shields.io/badge/YOLO-%23F9D616.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://pjreddie.com/darknet/yolo/)
+[![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000.svg?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/sql.html)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) [![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23239120.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+ [![Socket.IO](https://img.shields.io/badge/Socket.IO-%23000000.svg?style=flat&logo=socket.io&logoColor=white)](https://socket.io/) 
 
-#### Frontend Frameworks and Libraries:
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) [![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%23006AFF.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%23319798.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://chakra-ui.com/)
-#### Database and Backend Technologies:
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/sql.html) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) [![Socket.IO](https://img.shields.io/badge/Socket.IO-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)  [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-#### Miscellaneous:
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 
 ## 🌱 Learning
 
-I am currently focused on enhancing my knowledge in:
+**I am currently focused on enhancing my knowledge in:**
 
-- Deep Learning and Mobile app Development
+- Deep Learning
+- Generative AI
+- DevOps & MLOps practices for seamless AI or non-AI Service deployments and monitoring
+- Cloud Platforms : AWS, GCP and Azure
+
+## 🛠️ What I Can Help With
+
+ - **Designing and Implementing end-to-end Machine Learning pipelines**
+ - **Fine-Tuning Deep Learning Models**
+ - **Deploying Services or ML models on the cloud platforms**
+ - **Developing end-to-end complex Full Stack Web Applications using the MERN stack**
+ - **Building end-to-end complex Browser (chrome) extensions**
+ - **Developing Cross Platform Mobile Application using React-Native Framework**
 
 ## 📫 Contact
 
@@ -40,11 +69,28 @@ Feel free to reach out to me:
 
 - Email: pmsoni2016@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pankil-soni-5a0541170/
+- My Website 🌐  : https://pankil-soni.github.io/
 
 ## Github Stats
+
+<div style="display:flex;">
+<div style="width:'50%';" align="center">
+  
 ![pankil-soni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankil-soni&theme=tokyonight&hide_border=false)
+
+</div>
+
+<div style="width:'50%';" align="center">
+  
 ![pankil-soni's Stats](https://github-readme-stats.vercel.app/api?username=pankil-soni&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-## 🌐 Personal Website
+</div>
+</div>
 
-link : https://pankil-soni.github.io/
+<div align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pankil-soni&theme=tokyonight&no-frame=true&row=1&column=7" alt="pankil-soni" />
+  </a>
+  
+</div>
