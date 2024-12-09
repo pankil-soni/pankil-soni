@@ -1,6 +1,7 @@
 <div align="center">
   <img alt="Profile Header" src="https://d36zjyy50kn5xn.cloudfront.net/banner-dark.svg" width="100%">
 </div>
+
 ## About Me
 
 I am a Third-year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India. Passionate about building Machine Learning models and FullStack development, I am dedicated to exploring and contributing to the exciting field of artificial intelligence.
