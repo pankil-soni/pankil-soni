@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Profile Header" src="https://d36zjyy50kn5xn.cloudfront.net/banner-dark.svg" width="100%">
+  <img alt="Profile Header" src="https://conversa-chat.s3.ap-south-1.amazonaws.com/banner-dark+(1).svg" width="100%">
 </div>
 
 ## Find Me At
