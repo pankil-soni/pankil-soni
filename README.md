@@ -1,8 +1,8 @@
 <div align="center">
-  <img alt="Profile Header" src="https://conversa-chat.s3.ap-south-1.amazonaws.com/banner-dark+(1).svg" width="100%">
+  <img alt="Profile Header" src="https://pankil-general.s3.us-east-1.amazonaws.com/github/github-banner.svg" width="100%">
 </div>
 
-## Find Me At
+## Find Pankil At
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pmsoni2016@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankil-soni-5a0541170/)
@@ -19,13 +19,13 @@
     <img src="https://img.shields.io/badge/-Website-FF5722?style=flat&logo=internet-explorer&logoColor=white" alt="Website" />
   </a>
 
-## About Me
+## About Pankil
 
-I am a Third-year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India. Passionate about building Machine Learning models and FullStack development, I am dedicated to exploring and contributing to the exciting field of artificial intelligence.
+Pankil Soni is a Fourth-year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India and Working full time remotely as a Junior AI/ML Engineer @[MSBC Group](https://msbcgroup.com), Ahmedabad, India. He is Passionate about building end-to-end AI Software Products from <ins>**development**</ins> to <ins>**deployment at scale**</ins>. He is dedicated to exploring and contributing to the exciting field of Computer Science and Artificial Intelligence.
 
-![pankil soni's profile views](https://visitcount.itsvg.in/api?id=pankil-soni&icon=5&color=1)
+![Pankil Soni's profile views](https://komarev.com/ghpvc/?username=pankil-soni)
 
-## 🚀 Tech Stack
+## 🚀 Pankil's Skils and Tech Stack he can Comfortably use
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/) [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
@@ -54,27 +54,26 @@ I am a Third-year B.Tech student pursuing Artificial Intelligence and Machine Le
 
 ## 🌱 Learning
 
-**I am currently focused on enhancing my knowledge in:**
+**He is currently focused on enhancing his knowledge in:**
 
-- Deep Learning
-- Generative AI
+- Deep Learning, Vision, NLP and Pytorch
 - DevOps & MLOps practices for seamless AI or non-AI Service deployments and monitoring
 - Cloud Platforms : AWS, GCP and Azure
 
-## 🛠️ What I Can Help With
+## 🛠️ What Can Pankil Help With?
 
  - **Designing and Implementing end-to-end Machine Learning pipelines**
  - **Fine-Tuning Deep Learning Models**
  - **Deploying Services or ML models on the cloud platforms**
- - **Developing end-to-end complex Full Stack Web Applications using the MERN stack**
+ - **Developing end-to-end complex Full Stack Web Applications using the Modern stacks (Next.js, Fastapi/Node.js, Mongo/SQL, etc...)**
  - **Building end-to-end complex Browser (chrome) extensions**
  - **Developing Cross Platform Mobile Application using React-Native Framework**
 
 ## 📫 Contact
 
-Feel free to reach out to me:
+Feel free to reach out to Pankil:
 
-- Email: pmsoni2016@gmail.com
+- Email: [pmsoni2016@gmail.com](mailto:pmsoni2016@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/pankil-soni-5a0541170/
 - My Website 🌐  : https://pankil-soni.github.io/
 
